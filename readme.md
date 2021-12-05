@@ -6,4 +6,8 @@
 
 ## Preview del desafio finalizado
 
-<img src="https://github.com/XmauricioX/Middlewares/blob/main/public/images/preview1.PNG">
+<img src="https://github.com/XmauricioX/EXPRESS_SESSION_AND_COOKIES/blob/main/public/images/preview1.PNG">
+<img src="https://github.com/XmauricioX/EXPRESS_SESSION_AND_COOKIES/blob/main/public/images/preview2.PNG">
+<img src="https://github.com/XmauricioX/EXPRESS_SESSION_AND_COOKIES/blob/main/public/images/preview3.PNG">
+<img src="https://github.com/XmauricioX/EXPRESS_SESSION_AND_COOKIES/blob/main/public/images/preview4.PNG">
+<img src="https://github.com/XmauricioX/EXPRESS_SESSION_AND_COOKIES/blob/main/public/images/preview5.PNG">
